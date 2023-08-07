@@ -49,7 +49,7 @@ Here you can see the distribution of the classes after removing these samples.
 ![alt text](snapshots/scores_after.png)
 
 You can see the model architecture here: 
-![alt text](notebooks/reddit_torchviz.png)
+![alt text](notebook/reddit_torchviz.png)
 
 
 
@@ -59,7 +59,7 @@ You can find the main notebook that tackle this challenge [here](notebook/Subred
 
 Another notebook that extract comments from reddit posts is included [here](notebook/extracting_comments_from_posts.ipynb)
 
-For easier access, I also included the HTML format of the notebooks [here](data/extracting_comments_from_posts.html) and [here](data/Subreddits_Analysis_AskScience.html))
+For easier access, I also included the HTML format of the notebooks [here](htmls/extracting_comments_from_posts.html) and [here](htmls/Subreddits_Analysis_AskScience.html))
 
 Some text data utility is included [here](utils/data_utility.py)
 
